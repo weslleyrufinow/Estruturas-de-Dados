@@ -1,0 +1,3 @@
+gcc -c palindromeChain.c Queue.c ; gcc palindromeChain.o Queue.o Stack.o ; ./a.out
+
+gcc -c QueueGen.c Queue.c ; gcc QueueGen.o Queue.o ; ./a.out

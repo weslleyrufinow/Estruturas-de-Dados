@@ -1,0 +1,10 @@
+gcc -c list.c Q1.c; gcc list.o Q1.o;./a.out
+
+gcc -c Queue.c Q3.c; gcc Queue.o Q3.o;./a.out
+
+gcc -c List.c Q2.c; gcc List.o Q2.o;./a.out
+
+gcc -c List.c Stack.c Q4.c; gcc List.o Stack.o Q4.o;./a.out
+
+gcc -c  Queue.c list.c Stack.c teste.c; gcc Queue.o list.o Stack.o teste.o;./a.out
+

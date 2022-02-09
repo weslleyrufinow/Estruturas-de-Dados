@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ponto2d.h": "c",
+        "stackint.h": "c"
+    }
+}
